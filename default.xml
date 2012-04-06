@@ -28,6 +28,7 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="device/hp/tenderloin" name="CyanogenMod/android_device_hp_tenderloin" />
   <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" />
+  <project path="device/htc/msm7x30-common" name="vorbeth/android_device_htc_msm7x30-common" />
   <project path="device/htc/msm8660-common" name="vorbeth/android_device_htc_msm8660-common" revision="opensensation" />
   <project path="device/htc/pyramid" name="vorbeth/android_device_htc_pyramid" revision="opensensation" />
   <project path="device/htc/saga" name="CyanogenMod/android_device_htc_saga" />
@@ -58,6 +59,7 @@
   <project path="device/samsung/maguro" name="CyanogenMod/android_device_samsung_maguro" />
   <project path="device/samsung/p4-common" name="CyanogenMod/android_device_samsung_p4-common" />
   <project path="device/samsung/p4tmo" name="CyanogenMod/android_device_samsung_p4tmo" />
+  <project path="device/samsung/p4vzw" name="CyanogenMod/android_device_samsung_p4vzw" />
   <project path="device/samsung/p4wifi" name="CyanogenMod/android_device_samsung_p4wifi" />
   <project path="device/samsung/p5" name="CyanogenMod/android_device_samsung_p5" />
   <project path="device/samsung/p5-common" name="CyanogenMod/android_device_samsung_p5-common" />
@@ -74,6 +76,7 @@
   <project path="device/semc/iyokan" name="CyanogenMod/android_device_semc_iyokan" />
   <project path="device/semc/mango" name="CyanogenMod/android_device_semc_mango" />
   <project path="device/semc/mogami-common" name="CyanogenMod/android_device_semc_mogami-common" />
+  <project path="device/semc/msm7x30-common" name="CyanogenMod/android_device_semc_msm7x30-common" />
   <project path="device/semc/satsuma" name="CyanogenMod/android_device_semc_satsuma" />
   <project path="device/semc/smultron" name="CyanogenMod/android_device_semc_smultron" />
   <project path="device/semc/urushi" name="CyanogenMod/android_device_semc_urushi" />
