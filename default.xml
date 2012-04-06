@@ -35,7 +35,6 @@
   <project path="device/htc/shooteru" name="CyanogenMod/android_device_htc_shooteru" />
   <project path="device/htc/vivo" name="CyanogenMod/android_device_htc_vivo" />
   <project path="device/lge/e730" name="CyanogenMod/android_device_lge_e730" />
-  <project path="device/lge/e739" name="CyanogenMod/android_device_lge_e739" />
   <project path="device/lge/p930" name="CyanogenMod/android_device_lge_p930" />
   <project path="device/lge/p990" name="CyanogenMod/android_device_lge_p990" />
   <project path="device/lge/p999" name="CyanogenMod/android_device_lge_p999" />
