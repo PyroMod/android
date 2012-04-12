@@ -305,7 +305,6 @@
   <project path="vendor/htc/pyramid" name="vorbeth/android_vendor_htc_pyramid" revision="opensensation" />
   <project path="vendor/motorola" name="koush/proprietary_vendor_motorola" />
   <project path="vendor/lge" name="koush/proprietary_vendor_lge" />
-  <project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-video" />
   <project path="vendor/samsung" name="koush/proprietary_vendor_samsung" />
