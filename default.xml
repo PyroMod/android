@@ -57,7 +57,6 @@
   <project path="device/samsung/galaxysmtd" name="CyanogenMod/android_device_samsung_galaxysmtd" />
   <project path="device/samsung/i777" name="CyanogenMod/android_device_samsung_i777" />
   <project path="device/samsung/maguro" name="CyanogenMod/android_device_samsung_maguro" />
-  <project path="device/samsung/p4-common" name="CyanogenMod/android_device_samsung_p4-common" />
   <project path="device/samsung/p4tmo" name="CyanogenMod/android_device_samsung_p4tmo" />
   <project path="device/samsung/p4vzw" name="CyanogenMod/android_device_samsung_p4vzw" />
   <project path="device/samsung/p4wifi" name="CyanogenMod/android_device_samsung_p4wifi" />
