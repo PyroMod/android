@@ -26,7 +26,7 @@
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
-  <project path="device/htc/msm8660-common" name="vorbeth/android_device_htc_msm8660-common" revision="opensensation" />
+  <project path="device/htc/msm8660-common" name="blahbl4hblah/android_device_htc_msm8660-common" revision="opensensation" />
   <project path="device/htc/pyramid" name="blahbl4hblah/android_device_htc_pyramid" revision="ics-cm" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
@@ -183,7 +183,7 @@
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
-  <project path="kernel/htc/msm8660" name="blahbl4hblah/android_kernel_htc_msm8660" revision="android-msm-htc8x60-3.0" />
+  <project path="kernel/htc/msm8660" name="blahbl4hblah/android_kernel_htc_msm8660" revision="aosp" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
