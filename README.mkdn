@@ -1,3 +1,6 @@
+CyanogenMod
+===========
+
 Getting Started
 ---------------
 
@@ -6,8 +9,13 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the CyanogenMod trees, use a command like this:
 
-    repo init -u git://github.com/blahbl4hblah/android.git -b ics
+    repo init -u git://github.com/blahbl4hblah/android.git -b ics-cm
 
 Then to sync up:
 
     repo sync
+
+Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.com/) for building instructions.
+
+For more information on this Github Organization and how it is structured, 
+please [read the wiki article](http://wiki.cyanogenmod.com/index.php/Github_Organization)
