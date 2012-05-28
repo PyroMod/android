@@ -26,8 +26,8 @@
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
-  <project path="device/htc/msm8660-common" name="blahbl4hblah/android_device_htc_msm8660-common" />
-  <project path="device/htc/pyramid" name="blahbl4hblah/android_device_htc_pyramid" />
+  <project path="device/htc/msm8660-common" name="blahbl4hblah/android_device_htc_msm8660-common" revision="ics-dev" />
+  <project path="device/htc/pyramid" name="blahbl4hblah/android_device_htc_pyramid" revision="ics-dev" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
@@ -253,7 +253,7 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
-  <project path="vendor/htc/pyramid" name="blahbl4hblah/android_vendor_htc_pyramid" />
+  <project path="vendor/htc/pyramid" name="blahbl4hblah/android_vendor_htc_pyramid" revision="ics-dev" />
   <project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-video" />
