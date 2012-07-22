@@ -218,7 +218,7 @@
   <project path="packages/apps/PackageInstaller" name="PyroMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Phone" name="PyroMod/android_packages_apps_Phone" />
   <project path="packages/apps/Protips" name="PyroMod/android_packages_apps_Protips" />
-  <project path="packages/apps/Phone" name="PyroMod/android_packages_apps_Phone" />
+  <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="PyroMod/android_packages_apps_QuickSearchBox" />
   <project path="packages/apps/Settings" name="PyroMod/android_packages_apps_Settings" />
   <project path="packages/apps/SoundRecorder" name="PyroMod/android_packages_apps_SoundRecorder" />
