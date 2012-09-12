@@ -244,7 +244,7 @@
   <project path="packages/wallpapers/MusicVisualization" name="PyroMod/android_packages_wallpapers_MusicVisualization" />
   <project path="packages/wallpapers/NoiseField" name="PyroMod/android_packages_wallpapers_NoiseField" />
   <project path="packages/wallpapers/PhaseBeam" name="PyroMod/android_packages_wallpapers_PhaseBeam" />
-  <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
+  <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="vendor/cm" name="PyroMod/android_vendor_cm" />
   <project path="vendor/google" name="PyroMod/android_vendor_google" />
   <project path="vendor/htc/pyramid" name="PyroMod/android_vendor_htc_pyramid" />
