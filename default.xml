@@ -23,7 +23,7 @@
   <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="PyroMod/android_bootable_recovery" />
-  <project path="dalvik" name="PyroMod/android_dalvik" />
+  <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
@@ -189,7 +189,7 @@
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="kernel/htc/msm8660" name="PyroMod/android_kernel_htc_msm8660" />
-  <project path="libcore" name="PyroMod/android_libcore" />
+  <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="ndk" name="PyroMod/android_ndk" />
   <project path="packages/apps/Apollo" name="PyroMod/android_packages_apps_Apollo" />
   <project path="packages/apps/BasicSmsReceiver" name="PyroMod/android_packages_apps_BasicSmsReceiver" />
