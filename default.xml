@@ -207,7 +207,6 @@
   <project path="packages/apps/Email" name="PyroMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="PyroMod/android_packages_apps_Exchange" />
   <project path="packages/apps/FileManager" name="PyroMod/android_packages_apps_FileManager" />
-  <project path="packages/apps/GanOptimizer" name="CyanogenMod/android_packages_apps_GanOptimizer" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="packages/apps/Mms" name="PyroMod/android_packages_apps_Mms" />
