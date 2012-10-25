@@ -200,14 +200,12 @@
   <project path="packages/apps/Camera" name="PyroMod/android_packages_apps_Camera" />
   <project path="packages/apps/CellBroadcastReceiver" name="PyroMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
-  <project path="packages/apps/CMUpdater" name="PyroMod/android_packages_apps_CMUpdater" />
   <project path="packages/apps/CMWallpapers" name="PyroMod/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Contacts" name="PyroMod/android_packages_apps_Contacts" />
   <project path="packages/apps/DeskClock" name="PyroMod/android_packages_apps_DeskClock" />
   <project path="packages/apps/DSPManager" name="PyroMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="PyroMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="PyroMod/android_packages_apps_Exchange" />
-  <project path="packages/apps/FileManager" name="PyroMod/android_packages_apps_FileManager" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="packages/apps/Mms" name="PyroMod/android_packages_apps_Mms" />
